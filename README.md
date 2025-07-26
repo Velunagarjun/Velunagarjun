@@ -1,4 +1,1 @@
-i am Velunagarjun
--student 
-BCA final semester
-Wanna learn some pro-gram by eating normal gram
+I am Velunagarjun, An Experienced Software Developer Who is specialized in the Salesforce Cloud Platform Developing and Operations, And Dont Wanna Stop Learning Other Environments Too. And Like to Use Ai Less, Likes the Natural Way.  
